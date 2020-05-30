@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  background-image: url('../fondo.jpg');
+  background-repeat: no-repeat;
+
+
+}
+
+
+
+.Bienvenidos {
+  position: relative;
+  border: 1px black solid;
+  width: 500px;
+  left: 250px;
+  top: 100px;
+  height: 700px;
+  background: black;
+  opacity: 0.9;
+}
+
+.Tituloh1 {
+  color: darkgray;
+}
+
+.p1 {
+  color: darkgray;
+}
